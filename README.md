@@ -146,7 +146,7 @@
     <header class="topbar">
       <div class="brand">
         <span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="4"/><path d="M3.5 12h4.5m8 0h4.5M12 3.5V8m0 8v4.5"/></svg></span>
-        <span>3DPrints4U<small>Workshop inventory</small></span>
+        <span>3DPrintsJust4U<small>Workshop inventory</small></span>
       </div>
       <div class="top-actions">
         <button class="secondary-button" id="exportButton" type="button">Export inventory</button>
